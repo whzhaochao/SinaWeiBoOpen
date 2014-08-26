@@ -5,4 +5,4 @@ Base sina weibo Open Prjoect
 
 
 
-![image](https://raw.githubusercontent.com/whzhaochao/IOS-Swift-UITableViewDemo/master/readme.gif)
+![image](https://raw.githubusercontent.com/whzhaochao/SinaWeiBoOpen/master/readme.gif)
